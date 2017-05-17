@@ -1,0 +1,4 @@
+sleep
+class
+study
+prog
